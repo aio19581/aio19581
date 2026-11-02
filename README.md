@@ -14,6 +14,7 @@
 - **2022.01 ~ 2024.06** | 메리티움 소프트웨어 | Software QA
 - **2024.07 ~ 2025.01** | 에이콘아카데미 | Java Full Stack 과정 수료
 - **2025.05 ~ 2026.06** | 아스템즈 | Web Developer
+- **2026.06 ~ 2026.09** | 프로그래머스 | Spring AI와 MSA를 활용한 백엔드 개발 과정 수료
 
 <!--
 **aio19581/aio19581** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
